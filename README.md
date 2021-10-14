@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anahi Ayala
-- 🌱 I’m currently learning about software and what are the right steps to work through it.
+- 🌱 I’m currently learning about software and what are the right steps to be successful in it.
 - 📫 agayala@ucsd.edu
 
 <!---
